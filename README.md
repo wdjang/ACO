@@ -23,4 +23,3 @@ There is no guarantee it will run on other operating systems or Matlab versions.
 LICENSE
 --------------------------------------------------------------------------------
 This program is released with a research only license.
-The license is enclosed along with this program.
