@@ -22,6 +22,11 @@ There is no guarantee it will run on other operating systems or Matlab versions.
 3. Please see 'demo.m'
 
 --------------------------------------------------------------------------------
+VidSeg Dataset
+--------------------------------------------------------------------------------
+VidSeg dataset can be downloaded from https://www.dropbox.com/s/i6ugkqhvi5td9uf/VidSeg.zip?dl=0
+
+--------------------------------------------------------------------------------
 LICENSE
 --------------------------------------------------------------------------------
 This program is released with a research only license.
