@@ -17,7 +17,9 @@ There is no guarantee it will run on other operating systems or Matlab versions.
 
 1. CVX optimizer is required. It can be downloaded at: http://cvxr.com/cvx/
 
-2. Please see 'demo.m'
+2. Download sample data via https://www.dropbox.com/s/otjtfbmfg6b2lr5/dataset.tar.gz?dl=0
+
+3. Please see 'demo.m'
 
 --------------------------------------------------------------------------------
 LICENSE
